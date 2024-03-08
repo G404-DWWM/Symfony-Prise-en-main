@@ -2,6 +2,8 @@
 
 ## 🎦 Présentation MVC
 
+[Présentation](https://docs.google.com/presentation/d/1WvroALZRKneGGJm7kLIDIpFqcrIT_ljOoweNtc1Q-PU)
+
 ## 🎦 Live coding
 
 Installation d'un projet Symfony. Explication de l'arborescence du framework.

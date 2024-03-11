@@ -87,7 +87,7 @@ php bin/console make:controller
 ### 🎨 Intégration
 
 1. Récupérer les pages HTML du projet ici : [payetonpote](https://gitlab.com/simplon-roanne/paiement-collaboratif)
-2. Copier le dossier "assets" dans le dossier Symfony `public` (c'est la racine du serveur web).
+2. Copier le dossier "assets" du projet récuperé pour le mettre dans le dossier Symfony `assets` (c'est la racine des assets de symfony).
 3. Copier toute la page `index.html` et la coller dans le fichier `base.html.twig` tout en
 conservant le code existant. On va en réutiliser une partie (les balises twig !)
 4. Repérer l'endroit où termine le header et où commence le footer. Couper ce code et le
